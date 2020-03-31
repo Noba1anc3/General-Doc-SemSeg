@@ -3,7 +3,7 @@
 ## 下载
 #####   为下载该项目, 请在希望保存该项目的路径启动控制台并执行如下命令:
 ```
-git clone http://47.98.230.217:3000/Doc_SemSeg/General-Doc-SemSeg.git
+git clone https://github.com/noba1anc3/General-Doc-SemSeg.git
 ```
 
 ## 环境
